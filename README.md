@@ -33,4 +33,4 @@ Realizo a análise de dados e utilizo as práticas de Business Intelligence cert
 <img src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" alt="Linguagem SQL" width="35" height="35"/>
 <img src="https://github.com/dgpugliese/MySQL-Icon/blob/main/logo-mysql-26353.png" alt="MySQL" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="35" height=35"/>
-<img src="https://e7.pngegg.com/pngimages/515/909/png-clipart-microsoft-sql-server-computer-servers-database-microsoft-microsoft-sql-server-server-computer.png" alt="SQL Server" width="35" height="35"/>
+<img src="https://e7.pngegg.com/pngimages/134/537/png-clipart-microsoft-sql-server-sql-server-management-studio-sql-server-integration-services-database-server-microsoft-angle-text.png" alt="SQL Server" width="35" height="35"/>
