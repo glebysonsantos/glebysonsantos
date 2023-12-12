@@ -24,13 +24,12 @@ Realizo a análise de dados e utilizo as práticas de Business Intelligence cert
 
 ### Linguagens e ferramentas principais
 
- <div>
+<br />
+
 <img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/excel.png"width="35" height=35"/>
-  
 <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" width="35" height=35"/>
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="35" height=35"/>
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="35" height=35"/>
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="35" height=35"/>
+
+<br />
