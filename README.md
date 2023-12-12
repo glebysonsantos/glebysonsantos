@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Glebyson. Bem-vindo!
 
-Realizo a análise de dados e utilizo as práticas de Business Intelligence certas para cada contexto, desenvolvendo relatórios/dashboards eficazes que auxiliam na resolução de problemas e nas tomadas de decisões. Utilizo meu conhecimento em diversas áreas de negócios aliado ao conhecimento em ferramentas de BI para entregar soluções claras, práticas e objetivas.
+⏳ Descrição em breve. ⏳
 
 * 🎓 Graduando em Inteligência de Negócios.
 * 🖥️ Apaixonado por tecnologia, gestão, processos, economia e negócios.
