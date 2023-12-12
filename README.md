@@ -30,3 +30,4 @@ Realizo a análise de dados e utilizo as práticas de Business Intelligence cert
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="35" height=35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" wihttps://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svgdth="35" height=35 "/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="35" height=35"/>
+<img src="https://github.com/dgpugliese/MySQL-Icon/blob/main/logo-mysql-26353.png" width="35" height=35"/>
