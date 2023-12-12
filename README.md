@@ -4,12 +4,7 @@ Realizo a análise de dados e utilizo as práticas de Business Intelligence cert
 
 * 🎓 Graduando em Inteligência de Negócios.
 * 🎯 Sem dados, sem resposta.
-* 🖥️ Proficiente em:
-  - Microsoft Excel;
-  - Microsoft Power BI (DAX, linguagem M, modelagem de dados, visualização de dados, storytelling e mais);
-  - Linguagem SQL e seus principais SGBDs (Postgre, SQL Server e MySQL);
-  - Linguagem Python e suas bibliotecas voltadas para data science (Pandas, Numpy, Matplotlib, Seaborn);
-  - Metodologias Ágeis. 
+* 🖥️ Conhecimento em: Microsoft Excel, Power BI, Python, linguagem SQL, banco de dados, 
 
 
 **Neste perfil, compartilho alguns projetos de análise de dados realizados com Power BI, SQL, Python e outras ferramentas de Data Science.**
@@ -28,3 +23,5 @@ Realizo a análise de dados e utilizo as práticas de Business Intelligence cert
 
 
 ### Linguagens e ferramentas principais
+
+![Texto Alternativo](png/1024/excel.png)
