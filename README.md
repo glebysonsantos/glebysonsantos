@@ -25,10 +25,13 @@ Realizo a análise de dados e utilizo as práticas de Business Intelligence cert
 ### Linguagens e ferramentas principais
 
  <div>
-<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"width="35" height=35"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" wihttps://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svgdth="35" height=35 "/>
-<img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/excel.png"width="35" height=35"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="35" height=35"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="35" height=35"/>
-<img src="https://github.com/dgpugliese/MySQL-Icon/blob/main/logo-mysql-26353.png" width="35" height="35"/>
-<img src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" alt="Texto Alternativo" width="35" height="35"/>
+<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="Power BI" width="35" height=35"/>
+<img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/excel.png" alt="Excel" width="35" height=35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="35" height=35"/>
+<img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="Numpy" width="35" height=35"/>
+<img src="https://encurtador.com.br/dzHP0" alt="Matplotlib" width="35" height=35"/>
+<img src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" alt="Linguagem SQL" width="35" height="35"/>
+<img src="https://github.com/dgpugliese/MySQL-Icon/blob/main/logo-mysql-26353.png" alt="MySQL" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="35" height=35"/>
+<img src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" alt="SQL Server" width="35" height="35"/>
