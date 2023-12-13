@@ -23,7 +23,7 @@
 * Em breve.
 
 
-### Linguagens e ferramentas principais
+### 🛠️ Linguagens e ferramentas principais
 
  <div>
 <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="Power BI" width="35" height=35"/>
