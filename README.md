@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Glebyson. Bem-vindo!
 
-⏳ Descrição em breve. ⏳
-
 * 🎓 Graduando em Inteligência de Negócios.
 * 🖥️ Apaixonado por tecnologia, gestão, processos, economia e negócios.
 * 🎯 Focado em trazer os melhores resultados em processos e gestão através de dados.
