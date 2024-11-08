@@ -10,7 +10,7 @@
 
 ### Projetos de análise de dados utilizando Power BI 
 
-* Em breve.
+ - [Projeto de Análise de Dados - Exportadora Majestic - Clique Aqui](https://github.com/glebysonsantos/Projeto-Power-BI.git)
 
 ### Projetos de análise de dados utilizando Python
 
